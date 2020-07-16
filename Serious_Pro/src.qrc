@@ -1,0 +1,13 @@
+<RCC>
+    <qresource prefix="/Image">
+        <file>black.png</file>
+        <file>board1.jpg</file>
+        <file>white.png</file>
+        <file>board2.jpg</file>
+        <file>board4.jpg</file>
+        <file>alone.png</file>
+        <file>continue.png</file>
+        <file>online.png</file>
+        <file>quit.png</file>
+    </qresource>
+</RCC>
